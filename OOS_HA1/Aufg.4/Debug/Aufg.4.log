@@ -1,0 +1,21 @@
+﻿  Quelle.cpp
+c:\users\nick süß\documents\oos_labor\oos_ha1\aufg.4\quelle.cpp(4): error C2059: Syntaxfehler: "user-defined literal"
+c:\users\nick süß\documents\oos_labor\oos_ha1\aufg.4\quelle.cpp(4): error C2143: Syntaxfehler: Es fehlt ";" vor "}"
+c:\users\nick süß\documents\oos_labor\oos_ha1\aufg.4\quelle.cpp(4): error C2059: Syntaxfehler: "}"
+c:\users\nick süß\documents\oos_labor\oos_ha1\aufg.4\quelle.cpp(5): error C2059: Syntaxfehler: "Konstante"
+c:\users\nick süß\documents\oos_labor\oos_ha1\aufg.4\quelle.cpp(5): error C3873: "0x2019": Dieses Zeichen ist nicht als erstes Zeichen eines Bezeichners zulässig.
+c:\users\nick süß\documents\oos_labor\oos_ha1\aufg.4\quelle.cpp(5): error C3872: "0x2019": Dieses Zeichen ist in einem Bezeichner nicht zulässig.
+c:\users\nick süß\documents\oos_labor\oos_ha1\aufg.4\quelle.cpp(5): error C2143: Syntaxfehler: Es fehlt ";" vor "}"
+c:\users\nick süß\documents\oos_labor\oos_ha1\aufg.4\quelle.cpp(5): error C2059: Syntaxfehler: "}"
+c:\users\nick süß\documents\oos_labor\oos_ha1\aufg.4\quelle.cpp(7): error C2365: "KAI": Erneute Definition; vorherige Definition war "Enumerator".
+  c:\users\nick süß\documents\oos_labor\oos_ha1\aufg.4\quelle.cpp(6): note: Siehe Deklaration von "KAI"
+c:\users\nick süß\documents\oos_labor\oos_ha1\aufg.4\quelle.cpp(13): error C2086: "sports mysport": Neudefinition
+  c:\users\nick süß\documents\oos_labor\oos_ha1\aufg.4\quelle.cpp(12): note: Siehe Deklaration von "mysport"
+c:\users\nick süß\documents\oos_labor\oos_ha1\aufg.4\quelle.cpp(15): error C2440: "=": "int" kann nicht in "sports" konvertiert werden
+  c:\users\nick süß\documents\oos_labor\oos_ha1\aufg.4\quelle.cpp(15): note: Konvertierung in einen Enumerationstypen erfordert explizite Typumwandlung (static_cast-Operator oder eine Typumwandlung im C- oder Funktionsformat)
+c:\users\nick süß\documents\oos_labor\oos_ha1\aufg.4\quelle.cpp(16): error C2440: "=": "int" kann nicht in "sports" konvertiert werden
+  c:\users\nick süß\documents\oos_labor\oos_ha1\aufg.4\quelle.cpp(16): note: Konvertierung in einen Enumerationstypen erfordert explizite Typumwandlung (static_cast-Operator oder eine Typumwandlung im C- oder Funktionsformat)
+c:\users\nick süß\documents\oos_labor\oos_ha1\aufg.4\quelle.cpp(17): error C2440: "=": "int" kann nicht in "sports" konvertiert werden
+  c:\users\nick süß\documents\oos_labor\oos_ha1\aufg.4\quelle.cpp(17): note: Konvertierung in einen Enumerationstypen erfordert explizite Typumwandlung (static_cast-Operator oder eine Typumwandlung im C- oder Funktionsformat)
+c:\users\nick süß\documents\oos_labor\oos_ha1\aufg.4\quelle.cpp(18): error C2440: "=": "int" kann nicht in "sports" konvertiert werden
+  c:\users\nick süß\documents\oos_labor\oos_ha1\aufg.4\quelle.cpp(18): note: Konvertierung in einen Enumerationstypen erfordert explizite Typumwandlung (static_cast-Operator oder eine Typumwandlung im C- oder Funktionsformat)

@@ -1,0 +1,4 @@
+﻿  main.cpp
+  main.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  Labor_Aufgabe1.vcxproj -> C:\OOS\Labor_5\Labor_5\Debug\Labor_Aufgabe1.exe
+  Labor_Aufgabe1.vcxproj -> C:\OOS\Labor_5\Labor_5\Debug\Labor_Aufgabe1.pdb (Partial PDB)

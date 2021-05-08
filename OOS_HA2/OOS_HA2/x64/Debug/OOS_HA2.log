@@ -1,0 +1,82 @@
+﻿  MyString.cpp
+c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\mystring.hpp(17): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: Siehe Deklaration von "strcpy"
+c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\mystring.hpp(27): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: Siehe Deklaration von "strcat"
+c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\mystring.hpp(34): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: Siehe Deklaration von "strcpy"
+c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\mystring.hpp(63): warning C4018: ">": Konflikt zwischen "signed" und "unsigned"
+c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\mystring.hpp(81): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: Siehe Deklaration von "strcpy"
+c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\mystring.hpp(88): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: Siehe Deklaration von "strcpy"
+c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\mystring.cpp(7): error C2065: "strCap": nichtdeklarierter Bezeichner
+c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\mystring.cpp(11): error C2065: "strCap": nichtdeklarierter Bezeichner
+c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\mystring.cpp(12): error C2065: "strCap": nichtdeklarierter Bezeichner
+c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\mystring.cpp(13): error C2065: "strPtr": nichtdeklarierter Bezeichner
+c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\mystring.cpp(14): error C2065: "strPtr": nichtdeklarierter Bezeichner
+c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\mystring.cpp(14): error C2541: "delete": Objekte, die keine Zeiger sind, können nicht gelöscht werden
+c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\mystring.cpp(15): error C2065: "strPtr": nichtdeklarierter Bezeichner
+c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\mystring.cpp(20): error C2084: Funktion "MyString &MyString::append(MyString &)" hat bereits einen Funktionsrumpf
+  c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\mystring.hpp(24): note: Siehe vorherige Definition von "append"
+c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\mystring.cpp(23): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: Siehe Deklaration von "strcat"
+c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\mystring.cpp(27): error C2065: "strSiz": nichtdeklarierter Bezeichner
+c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\mystring.cpp(28): error C2065: "strCap": nichtdeklarierter Bezeichner
+c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\mystring.cpp(29): error C2065: "strPtr": nichtdeklarierter Bezeichner
+c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\mystring.cpp(29): error C2065: "strCap": nichtdeklarierter Bezeichner
+c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\mystring.cpp(30): error C2065: "strPtr": nichtdeklarierter Bezeichner
+c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\mystring.cpp(34): error C2065: "strPtr": nichtdeklarierter Bezeichner
+c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\mystring.cpp(38): error C2065: "strSiz": nichtdeklarierter Bezeichner
+c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\mystring.cpp(41): error C2065: "strCap": nichtdeklarierter Bezeichner
+c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\mystring.cpp(44): error C2065: "strSiz": nichtdeklarierter Bezeichner
+c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\mystring.cpp(45): error C2065: "strCap": nichtdeklarierter Bezeichner
+c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\mystring.cpp(46): error C2065: "strPtr": nichtdeklarierter Bezeichner
+c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\mystring.cpp(50): error C2065: "strPtr": nichtdeklarierter Bezeichner
+c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\mystring.cpp(59): error C2065: "strCap": nichtdeklarierter Bezeichner
+c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\mystring.cpp(63): error C2065: "strPtr": nichtdeklarierter Bezeichner
+c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\mystring.cpp(67): error C2059: Syntaxfehler: ")"
+c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\mystring.cpp(67): error C2143: Syntaxfehler: Es fehlt ";" vor "{"
+c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\mystring.cpp(67): error C2447: "{": Funktionsheader fehlt - Parameterliste im alten Stil?
+c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\mystring.cpp(73): error C2059: Syntaxfehler: "const"
+c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\mystring.cpp(73): error C2143: Syntaxfehler: Es fehlt ";" vor "{"
+c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\mystring.cpp(73): error C2447: "{": Funktionsheader fehlt - Parameterliste im alten Stil?
+c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\mystring.cpp(80): error C2143: Syntaxfehler: Es fehlt ")" vor "&"
+c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\mystring.cpp(80): error C2143: Syntaxfehler: Es fehlt ";" vor "&"
+c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\mystring.cpp(80): error C2059: Syntaxfehler: ")"
+c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\mystring.cpp(80): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\mystring.cpp(81): error C2065: "strSiz": nichtdeklarierter Bezeichner
+c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\mystring.cpp(81): error C2059: Syntaxfehler: ";"
+c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\mystring.cpp(82): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\mystring.cpp(83): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\mystring.cpp(83): error C2440: "Initialisierung": "char *" kann nicht in "int" konvertiert werden
+  c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\mystring.cpp(83): note: Es gibt keinen Kontext, in dem diese Konvertierung möglich ist
+c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\mystring.cpp(84): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\mystring.cpp(84): error C2365: "strcpy": Erneute Definition; vorherige Definition war "Funktion".
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: Siehe Deklaration von "strcpy"
+c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\mystring.cpp(85): error C2059: Syntaxfehler: "}"
+c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\mystring.cpp(85): error C2143: Syntaxfehler: Es fehlt ";" vor "}"
+c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\mystring.cpp(86): error C2143: Syntaxfehler: Es fehlt ";" vor "{"
+c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\mystring.cpp(86): error C2447: "{": Funktionsheader fehlt - Parameterliste im alten Stil?
+c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\mystring.cpp(90): error C2059: Syntaxfehler: "}"
+c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\mystring.cpp(90): error C2143: Syntaxfehler: Es fehlt ";" vor "}"
+  Quelle.cpp
+c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\mystring.hpp(17): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: Siehe Deklaration von "strcpy"
+c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\mystring.hpp(27): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: Siehe Deklaration von "strcat"
+c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\mystring.hpp(34): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: Siehe Deklaration von "strcpy"
+c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\mystring.hpp(63): warning C4018: ">": Konflikt zwischen "signed" und "unsigned"
+c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\mystring.hpp(81): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: Siehe Deklaration von "strcpy"
+c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\mystring.hpp(88): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: Siehe Deklaration von "strcpy"
+c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\quelle.cpp(11): error C2664: "MyString &MyString::assign(MyString &)" : Konvertierung von Argument 1 von "MyString" in "MyString &" nicht möglich
+  c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\quelle.cpp(11): note: Ein nicht konstanter Verweis kann nur an einen L-Wert gebunden werden.
+c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\quelle.cpp(16): error C2106: "=": Linker Operand muss ein L-Wert sein
+c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\quelle.cpp(17): error C2106: "=": Linker Operand muss ein L-Wert sein
+c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\quelle.cpp(20): error C2171: "!": für Operanden vom Typ "void" nicht zulässig
+c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\quelle.cpp(20): error C2451: Bedingter Ausdruck des Typs "void" nicht zulässig
+  c:\users\nick süß\documents\oos_labor\oos_ha2\oos_ha2\quelle.cpp(20): note: Ausdruck vom Typ void kann nicht in andere Typen konvertiert werden
+  Code wird generiert...

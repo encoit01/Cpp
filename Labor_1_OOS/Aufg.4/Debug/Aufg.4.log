@@ -1,0 +1,4 @@
+﻿  Quelle.cpp
+c:\users\nick süß\documents\oos_labor\labor_1_oos\aufg.4\quelle.cpp(65): warning C4715: "object2str": Nicht alle Codepfade geben einen Wert zurück.
+c:\users\nick süß\documents\oos_labor\labor_1_oos\aufg.4\quelle.cpp(102): warning C4715: "winningObject": Nicht alle Codepfade geben einen Wert zurück.
+  Aufg.4.vcxproj -> C:\Users\Nick Süß\Documents\OOS_Labor\Labor_1_OOS\Debug\Aufg.4.exe
